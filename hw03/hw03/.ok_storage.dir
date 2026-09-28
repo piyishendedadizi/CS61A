@@ -1,0 +1,6 @@
+'inventory_pickup-correct', (0, 66)
+'berry_finder-correct', (512, 66)
+'size_of_tree-correct', (1024, 66)
+'make_path-correct', (1536, 66)
+'merge-correct', (2048, 66)
+'yield_paths-correct', (2560, 66)

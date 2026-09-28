@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.ok_history
+.ok_storage.*
